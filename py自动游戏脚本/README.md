@@ -1,4 +1,8 @@
 # python
+连连看
+https://blog.csdn.net/jnxxhzz/article/details/81275542
+图像相似度算法
+https://blog.csdn.net/feimengjuan/article/details/51279629
 python 自动游戏脚本
 
 python3.6 + opencv-python + pywin32 + PIL + numpy
